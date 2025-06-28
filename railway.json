@@ -6,7 +6,7 @@
       "volumes": [
         {
           "mountPath": "/home/node/.n8n",
-          "size": 2
+          "size": 5
         }
       ]
     }
