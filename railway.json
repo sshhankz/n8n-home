@@ -1,0 +1,14 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "services": [
+    {
+      "name": "n8n-home",
+      "volumes": [
+        {
+          "mountPath": "/home/node/.n8n",
+          "size": 2
+        }
+      ]
+    }
+  ]
+}
